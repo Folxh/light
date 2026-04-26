@@ -25,6 +25,17 @@
 <img width="811" height="967" alt="image" src="https://github.com/user-attachments/assets/0fccd7c7-e5e4-4274-9300-255e9baf5635" />
 
 ## IQ
+<img width="900" height="1273" alt="image" src="https://github.com/user-attachments/assets/f1bf0df8-c4f5-497f-8f5b-fd12eacf7738" />
+
+<img width="900" height="1273" alt="image" src="https://github.com/user-attachments/assets/27294bf2-b42a-4c3d-9464-b49a086a8750" />
+
+<img width="900" height="1273" alt="image" src="https://github.com/user-attachments/assets/e9db2857-4743-4b04-ab4b-b805f0619118" />
+
+<img width="900" height="1273" alt="image" src="https://github.com/user-attachments/assets/12a60948-b2ff-4003-ad7d-7fc42d10571e" />
+
+<img width="900" height="1273" alt="image" src="https://github.com/user-attachments/assets/d0a41ce6-bf81-46e3-a2f4-420a9ea49bef" />
+
+<img width="811" height="1198" alt="image" src="https://github.com/user-attachments/assets/c36e0f87-0ce5-4111-991c-13be1c9f5579" />
 
 ## Mira
 
