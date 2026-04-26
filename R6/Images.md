@@ -38,5 +38,11 @@
 <img width="811" height="1198" alt="image" src="https://github.com/user-attachments/assets/c36e0f87-0ce5-4111-991c-13be1c9f5579" />
 
 ## Mira
+<img width="811" height="1217" alt="image" src="https://github.com/user-attachments/assets/26d5b127-5142-4a31-9e88-1e9c510784fa" />
+
+<img width="811" height="456" alt="image" src="https://github.com/user-attachments/assets/d1026c8e-bc49-4c93-8dee-3ef3a0287e0e" />
+
+<img width="811" height="535" alt="image" src="https://github.com/user-attachments/assets/1529ba3f-ea5a-4ec5-a5d7-17ce579b9422" />
 
 ## Ash
+<img width="811" height="1153" alt="image" src="https://github.com/user-attachments/assets/636997c4-3ee0-4148-a11f-eefeb9eb0ab5" />
