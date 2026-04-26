@@ -8,8 +8,9 @@
   </style>
 <body>
   
-<h1>Title</h1>
+<h1>Furry</h1>
   
-<h2>Section</h2>
+<h2>Dil</h2>
+<img href="GIFs/IMG_7941.gif">
 
 </body>
