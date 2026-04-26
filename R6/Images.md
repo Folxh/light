@@ -1,7 +1,6 @@
 # R6
 
 ## Ela
-
 <img width="1024" height="746" alt="image" src="https://github.com/user-attachments/assets/89dc11b4-1705-4e46-861c-c92f8e7494d5" />
 
 <img width="1544" height="1332" alt="image" src="https://github.com/user-attachments/assets/70a06d11-0a6d-4dfc-9a08-cd33c0a2ba26" />
@@ -12,8 +11,18 @@
 
 <img width="811" height="811" alt="image" src="https://github.com/user-attachments/assets/0d2a171e-f293-433a-809c-735681dc4580" />
 
-
 ## Dokkaebi
+<img width="811" height="1088" alt="image" src="https://github.com/user-attachments/assets/c7d88d96-96ed-422b-ae10-34ac2aeb4ba5" />
+
+<img width="811" height="549" alt="image" src="https://github.com/user-attachments/assets/d7ff0d34-d6be-4ba8-8a49-a24da5685d0d" />
+
+<img width="811" height="1050" alt="image" src="https://github.com/user-attachments/assets/2b85fbf3-e55f-4655-b260-4be94dabfb00" />
+
+<img width="811" height="1050" alt="image" src="https://github.com/user-attachments/assets/6675c168-7a8b-4b89-82db-cf130402bbc6" />
+
+<img width="811" height="1274" alt="image" src="https://github.com/user-attachments/assets/f125dee4-5194-4feb-a2a8-3e2449afe1de" />
+
+<img width="811" height="967" alt="image" src="https://github.com/user-attachments/assets/0fccd7c7-e5e4-4274-9300-255e9baf5635" />
 
 ## IQ
 
