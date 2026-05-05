@@ -12,4 +12,7 @@
 <img src="Img/IMG_7940.jpeg">
 
 <img src="Img/Jify .gif">
+
+<img width="305" height="540" alt="image" src="https://github.com/user-attachments/assets/744052d9-e708-450a-abfc-b072d976d990" />
+
 </body>
