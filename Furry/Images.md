@@ -17,9 +17,23 @@
 
 <img src="GIFs/IMG_7943.gif">
 
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/a4e832b2-ef4a-4e1b-9459-1f9c64cd8cd7" />
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/dd4adb5c-219f-4718-a82c-dc11ade924d0" />
+
+<img width="800" height="613" alt="image" src="https://github.com/user-attachments/assets/dca5abef-f773-47e1-87f1-140369f099f4" />
+
 <h2>Finger</h2>
 <img src="GIFs/IMG_7944.gif">
 
+<h2>Dih</h2>
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/c3d6e2c3-76ae-4866-9a6b-58d5e5cb1157" />
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/22619672-9f58-434f-bc2a-0a6b150be99d" />
+
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/2e0cf1df-8321-48c8-8989-56de26b5f5c8" />
+
+  
 <h2>Tongue</h2>
 <img width="1622" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c4b4129-d2f7-49b7-9bef-ba003c7a4bdb" />
 
