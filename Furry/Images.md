@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<img width="1386" height="1000" alt="image" src="https://github.com/user-attachments/assets/dc77ec6a-81a9-4669-8abb-2b48a9e79d46" /><!DOCTYPE html>
 <html>
   <style>
     img {
@@ -12,19 +12,15 @@
   
 <h2>Dil</h2>
 <img src="GIFs/IMG_7941.gif">
-
 <img src="GIFs/IMG_7942.gif">
-
 <img src="GIFs/IMG_7943.gif">
-
 <img src="GIFs/Folxh2.gif">
-
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/dd4adb5c-219f-4718-a82c-dc11ade924d0" />
-
 <img width="800" height="613" alt="image" src="https://github.com/user-attachments/assets/dca5abef-f773-47e1-87f1-140369f099f4" />
 
 <h2>Finger</h2>
 <img src="GIFs/IMG_7944.gif">
+<img width="1386" height="1000" alt="image" src="https://github.com/user-attachments/assets/c4ce34f3-bd87-499a-b712-6c35a8106865" />
 
 <h2>Dih</h2>
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/c3d6e2c3-76ae-4866-9a6b-58d5e5cb1157" />
