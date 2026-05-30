@@ -21,6 +21,7 @@
 <h2>Finger</h2>
 <img src="GIFs/IMG_7944.gif">
 <img width="1386" height="1000" alt="image" src="https://github.com/user-attachments/assets/c4ce34f3-bd87-499a-b712-6c35a8106865" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/8e5526d6-0623-4fb2-a232-6ca15247a720" />
 
 <h2>Dih</h2>
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/c3d6e2c3-76ae-4866-9a6b-58d5e5cb1157" />
@@ -42,6 +43,7 @@
 <img width="850" height="752" alt="image" src="https://github.com/user-attachments/assets/d163eb98-2cb1-4b5f-9d6f-3c9e707a5a4d" />
 <img width="1200" height="1098" alt="image" src="https://github.com/user-attachments/assets/494eecbe-c5b8-463d-9bd7-9fc4cf181dcb" />
 <img width="642" height="1200" alt="image" src="https://github.com/user-attachments/assets/339b50b0-aed5-47e6-9ff3-6f041217a5cc" />
+<img width="800" height="951" alt="image" src="https://github.com/user-attachments/assets/6d8785ad-373e-4c01-bfd6-6cd1f81c6aa6" />
 
 <h2>Misc</h2>
 <img width="600" height="604" alt="image" src="https://github.com/user-attachments/assets/ed661438-d2fb-4d1e-b91c-d57b7d291f2f" />
