@@ -31,8 +31,17 @@
 <img width="780" height="1103" alt="image" src="https://github.com/user-attachments/assets/9da0afba-71da-4778-98ac-90f9eff8624b" />
 
 <h2>Reward</h2>
+<img width="1414" height="2000" alt="image" src="https://github.com/user-attachments/assets/56dfd8fa-4715-47d4-b7f9-821e79634bee" />
+<img width="1414" height="2000" alt="image" src="https://github.com/user-attachments/assets/4c14d671-bc2b-4313-b5ec-ccaa9404eab1" />
+<img width="1414" height="2000" alt="image" src="https://github.com/user-attachments/assets/bd364fe6-ada9-4228-93ec-327a43abe0d1" />
+<img width="1414" height="2000" alt="image" src="https://github.com/user-attachments/assets/e382d000-d94e-431b-86bd-8212905a7bca" />
+<img width="1414" height="2000" alt="image" src="https://github.com/user-attachments/assets/e6b3a329-e963-488c-8f05-f0f9fa749c93" />
+<img width="1414" height="2000" alt="image" src="https://github.com/user-attachments/assets/22a15f15-a2ff-4479-bb1f-6c06f6012aff" />
 
 <h2>Movie</h2>
+<img width="800" height="1132" alt="image" src="https://github.com/user-attachments/assets/76202201-820f-42e6-b7a9-5a344c1f0e1e" />
+<img width="800" height="1132" alt="image" src="https://github.com/user-attachments/assets/dc3213e9-42d4-4392-abff-7d9bee79bc13" />
+<img width="800" height="1132" alt="image" src="https://github.com/user-attachments/assets/ac682762-f524-4352-8282-601dfc8c422a" />
 
 </body>
 
