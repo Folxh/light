@@ -12,29 +12,20 @@
   
 <h2>Tongue</h2>
 <img width="752" height="1271" alt="image" src="https://github.com/user-attachments/assets/9d6f92ce-db24-4acd-85b7-a6e6972a0dff" />
-
 <img width="1459" height="1600" alt="image" src="https://github.com/user-attachments/assets/07bb8f0d-3809-4fec-b934-3e044baf5b51" />
-
 <img width="850" height="1057" alt="image" src="https://github.com/user-attachments/assets/4542034a-d4a5-4cb2-a423-b4129aa747a9" />
-
 <img width="1126" height="1400" alt="image" src="https://github.com/user-attachments/assets/1fd6e9d4-775f-4a10-9823-633e2766ae08" />
-
 <img width="1541" height="1080" alt="image" src="https://github.com/user-attachments/assets/a807d9c1-38e7-45a8-8c8b-7675a858dfe4" />
-
 <img width="2900" height="3300" alt="image" src="https://github.com/user-attachments/assets/718dfaf0-1b34-44e3-95f3-194957581c29" />
-
 <img width="811" height="1169" alt="image" src="https://github.com/user-attachments/assets/a9f5246a-daf8-4e41-9560-b079434b9814" />
-
 <img width="811" height="1169" alt="image" src="https://github.com/user-attachments/assets/1b551c4c-fb33-41ab-a55a-efd8c3428d6e" />
-
 <img width="811" height="670" alt="image" src="https://github.com/user-attachments/assets/7b88cc2d-4a4f-476a-b754-f221562610fd" />
-
 <img width="811" height="1169" alt="image" src="https://github.com/user-attachments/assets/8674c818-766a-4512-a715-4c99fa4658f4" />
-
 <img width="811" height="1169" alt="image" src="https://github.com/user-attachments/assets/c73f621e-fb21-4189-b645-3f3ca2372aa5" />
-
 <img width="811" height="1169" alt="image" src="https://github.com/user-attachments/assets/fdc52743-12e7-4578-a8fb-820975b39a3e" />
-
 <img width="811" height="1169" alt="image" src="https://github.com/user-attachments/assets/e1bd7526-29cf-4e44-9605-07c8690177a6" />
+
+<h2>Misc</h2>
+<img width="850" height="1080" alt="image" src="https://github.com/user-attachments/assets/15e4f82a-100d-4d8d-bfdb-c0aeb8fcffa8" />
 
 </body>
