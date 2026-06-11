@@ -33,8 +33,8 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f77a9ec-2aae-4d9f-8873-fa727972409c" />
 <img width="437" height="693" alt="image" src="https://github.com/user-attachments/assets/f787c7b8-0863-4630-a612-796580a6b253" />
 <img width="1920" height="1920" alt="image" src="https://github.com/user-attachments/assets/86aa03bc-5487-489b-8943-4d51da5924ac" />
-<img width="860" height="484" alt="image" src="https://github.com/user-attachments/assets/9dbcd4c1-27b5-4e02-97b8-1f8a2ae05a2a" />
- 
+<img src="GIFs/Folxh67.gif">
+
 <h2>Tongue</h2>
 <img width="1622" height="1080" alt="image" src="https://github.com/user-attachments/assets/2c4b4129-d2f7-49b7-9bef-ba003c7a4bdb" />
 <img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/6d0edea9-ba8d-45f9-952f-3543a19793e6" />
