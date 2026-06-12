@@ -17,6 +17,12 @@
 <img src="GIFs/Folxh2.gif">
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/dd4adb5c-219f-4718-a82c-dc11ade924d0" />
 <img width="800" height="613" alt="image" src="https://github.com/user-attachments/assets/dca5abef-f773-47e1-87f1-140369f099f4" />
+<img width="850" height="1011" alt="image" src="https://github.com/user-attachments/assets/4fa3c6da-22a9-4dbc-bd1e-771bbf0fd806" />
+<img width="850" height="776" alt="image" src="https://github.com/user-attachments/assets/0c56c041-eb2e-49bd-bf11-eab31a10a663" />
+<img width="850" height="478" alt="image" src="https://github.com/user-attachments/assets/7f3818a6-577f-4a3b-ace2-2d2d9b7e913f" />
+<img width="850" height="478" alt="image" src="https://github.com/user-attachments/assets/29dfae85-e7ec-4645-a9ba-fa68372898e3" />
+<img width="850" height="987" alt="image" src="https://github.com/user-attachments/assets/3fd15971-6097-4c1a-b2c4-cbacc8509121" />
+<img width="850" height="765" alt="image" src="https://github.com/user-attachments/assets/4ecb1138-6b70-4f2a-be8b-3ded4da9697d" />
 
 <h2>Finger</h2>
 <img src="GIFs/IMG_7944.gif">
