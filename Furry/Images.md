@@ -23,6 +23,7 @@
 <img width="850" height="478" alt="image" src="https://github.com/user-attachments/assets/29dfae85-e7ec-4645-a9ba-fa68372898e3" />
 <img width="850" height="987" alt="image" src="https://github.com/user-attachments/assets/3fd15971-6097-4c1a-b2c4-cbacc8509121" />
 <img width="850" height="765" alt="image" src="https://github.com/user-attachments/assets/4ecb1138-6b70-4f2a-be8b-3ded4da9697d" />
+<img width="2480" height="3508" alt="image" src="https://github.com/user-attachments/assets/a7d68b4b-8663-40df-a70d-c3c33a9499e4" />
 
 <h2>Finger</h2>
 <img src="GIFs/IMG_7944.gif">
@@ -55,5 +56,7 @@
 
 <h2>Misc</h2>
 <img width="600" height="604" alt="image" src="https://github.com/user-attachments/assets/ed661438-d2fb-4d1e-b91c-d57b7d291f2f" />
+<img width="1611" height="1116" alt="image" src="https://github.com/user-attachments/assets/43faf452-2dbb-45fe-a6f5-7175362b3af7" />
+<img width="1358" height="1890" alt="image" src="https://github.com/user-attachments/assets/6d1211f1-e734-421c-89ff-cffb0efd527d" />
 
 </body>
