@@ -24,6 +24,7 @@
 <img width="850" height="987" alt="image" src="https://github.com/user-attachments/assets/3fd15971-6097-4c1a-b2c4-cbacc8509121" />
 <img width="850" height="765" alt="image" src="https://github.com/user-attachments/assets/4ecb1138-6b70-4f2a-be8b-3ded4da9697d" />
 <img width="2480" height="3508" alt="image" src="https://github.com/user-attachments/assets/a7d68b4b-8663-40df-a70d-c3c33a9499e4" />
+<img width="1475" height="1500" alt="image" src="https://github.com/user-attachments/assets/0fa46224-e5c3-4b52-96f2-9837e446768b" />
 
 <h2>Finger</h2>
 <img src="GIFs/IMG_7944.gif">
