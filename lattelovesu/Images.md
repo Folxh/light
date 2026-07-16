@@ -17,6 +17,17 @@
 <img width="2046" height="3087" alt="image" src="https://github.com/user-attachments/assets/fa69d051-f963-4f60-b7ec-c517066c5778" />
 
 <h2>vids</h2>
-
+<video width="400" controls>
+  <source src="VIDs/1.mp4" type="video/mp4">
+</video>
+<video width="400" controls>
+  <source src="VIDs/2.mp4" type="video/mp4">
+</video>
+<video width="400" controls>
+  <source src="VIDs/3.mp4" type="video/mp4">
+</video>
+<video width="400" controls>
+  <source src="VIDs/4.mp4" type="video/mp4">
+</video>
 </body>
 
