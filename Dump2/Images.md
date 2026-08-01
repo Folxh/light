@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <style>
+    img {
+      width: 100%;
+      height: auto;
+    }
+  </style>
+<body>
+  
+<h1>☺️😌😘😛2</h1>
+  
+<h2>Dog Unknown Mustang Pterodactyl</h2>
+<img width="2280" height="1560" alt="image" src="https://github.com/user-attachments/assets/48f2f358-2eec-4df1-ac00-77c208120f5c" />
+<img width="3420" height="2340" alt="image" src="https://github.com/user-attachments/assets/dc365c79-b45b-4b08-8692-bcecf4683dfb" />
+<img width="1280" height="1946" alt="image" src="https://github.com/user-attachments/assets/7dcd52ab-0d46-47d6-b9e5-e57db4db6a32" />
+<img width="1000" height="1586" alt="image" src="https://github.com/user-attachments/assets/dc016bb8-f053-493e-9a51-8b582dd799b5" />
+<img width="1000" height="1586" alt="image" src="https://github.com/user-attachments/assets/0e07432a-fb4f-45e7-ab27-24dd7fd9f7f2" />
+<img width="1000" height="1586" alt="image" src="https://github.com/user-attachments/assets/769c1de0-f085-4ae1-b232-f46afe908208" />
+<img width="2003" height="2785" alt="image" src="https://github.com/user-attachments/assets/459da6b5-579d-4ef7-8721-c72de49ca4fa" />
+<img width="1302" height="2048" alt="image" src="https://github.com/user-attachments/assets/34bcc0ee-bd4a-4de3-bf05-867174e98a78" />
+<img width="1788" height="2411" alt="image" src="https://github.com/user-attachments/assets/1873fce8-1f61-4140-9691-8d36fecacd42" />
+<img width="1270" height="916" alt="image" src="https://github.com/user-attachments/assets/75128b64-0036-4c6a-abae-e915d926e21f" />
+<img width="1270" height="916" alt="image" src="https://github.com/user-attachments/assets/0e8e8085-14a9-425e-bb43-8e5ebd825487" />
+
+
+
+</body>
